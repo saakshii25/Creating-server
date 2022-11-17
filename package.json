@@ -1,0 +1,19 @@
+{
+  "name": "creating-server",
+  "version": "1.0.0",
+  "description": "our first node js server",
+  "main": "server.js",
+  "scripts": {
+    "start": " node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saakshii25/Creating-server.git"
+  },
+  "author": "sakshiee jagdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saakshii25/Creating-server/issues"
+  },
+  "homepage": "https://github.com/saakshii25/Creating-server#readme"
+}
